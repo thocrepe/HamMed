@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#FF1493"            # Deep Pink (neon pink)
+backgroundColor="#c03073"         # Dark grey background
+secondaryBackgroundColor="#99135d" # Slightly lighter grey for inputs
+textColor="#F0F0F0"               # Off-white text
+font="sans serif"
